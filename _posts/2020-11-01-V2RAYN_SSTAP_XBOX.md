@@ -3,7 +3,8 @@ title:  "用SSTAP和v2rayN实现XBOX的科学上网"
 date:   2020-11-01 22:47:09 +0800--
 categories: [科学上网]
 tags:   [科学上网]
-authors: [<wamogu>]   # for multiple entries
+author: wamogu # for multiple entries
+# author: <author_id>                     # for single entry
 # authors: [<wamogu>, <sufeng>]   # for multiple entries
 ---
 - [1. 背景](#1-背景)

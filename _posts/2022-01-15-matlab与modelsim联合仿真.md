@@ -3,7 +3,8 @@ title:  "Simulink与Modelsim联合仿真方法"
 date:   2022-01-15 8:00:00 +0800--
 categories: [硬件,FPGA]
 tags:   [FPGA]
-authors: [<wamogu>]   # for multiple entries
+author: wamogu # for multiple entries
+# author: <author_id>                     # for single entry
 # authors: [<wamogu>, <sufeng>]   # for multiple entries
 ---
 

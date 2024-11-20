@@ -3,7 +3,8 @@ title:  "IIC协议解读及关键点"
 date:   2020-11-24 22:37:00 +0800--
 categories: [硬件,通信协议]
 tags:   [IIC]
-authors: [<wamogu>]   # for multiple entries
+author: wamogu # for multiple entries
+# author: <author_id>                     # for single entry
 # authors: [<wamogu>, <sufeng>]   # for multiple entries
 ---
 - [1. IIC协议简介](#1-iic协议简介)
