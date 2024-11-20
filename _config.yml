@@ -55,6 +55,7 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+favicon_path:     /assets/img/favicon.ico
 
 # Web Analytics Settings
 analytics:
