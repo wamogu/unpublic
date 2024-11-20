@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IIC协议解读及关键点"
 date:   2020-11-24 22:37:00 +0800--
 categories: [硬件]

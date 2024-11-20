@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "用SSTAP和v2rayN实现XBOX的科学上网"
 date:   2020-11-01 22:47:09 +0800--
 categories: [科学上网]

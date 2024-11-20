@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Simulink与Modelsim联合仿真方法"
 date:   2022-01-15 8:00:00 +0800--
 categories: [硬件]
