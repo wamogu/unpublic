@@ -1,8 +1,10 @@
 ---
 title:  "Simulink与Modelsim联合仿真方法"
 date:   2022-01-15 8:00:00 +0800--
-categories: [硬件]
+categories: [硬件,FPGA]
 tags:   [FPGA]
+authors: [<wamogu>]   # for multiple entries
+# authors: [<wamogu>, <sufeng>]   # for multiple entries
 ---
 
 - [将Verilog代码导入Simulink](#将verilog代码导入simulink)
